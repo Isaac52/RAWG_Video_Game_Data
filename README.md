@@ -53,9 +53,10 @@ According to (Vilnius, Lithuania) RAWG (RAWG.io) is a comprehensive database and
   - [Making Environment Variables on Windows](https://www.youtube.com/watch?v=IolxqkL7cD8)
 
   - Here is a screen shot of the code to register your credentials from python!
-  If you didn't make the environment variables you can skip that code and directly put your credentials into the functions.  
+  If you didn't make the environment variables you can skip that code and directly put your credentials into the functions.
 
-![](credentials.png)
+![](credentials.jpg)
+
 
 ## References
   - [Vilnius Lithuania's Quote](https://www.gamasutra.com/view/pressreleases/327935/RAWG_built_the_largest_video_game_database_and_you_can_edit_it.php#:~:text=October%204th%2C%202018%20%E2%80%94%20RAWG%20,platform%20library%20in%20one%20place.&text=Today%2C%20RAWG%20is%20rolling%20out,members%20willing%20to%20pitch%20in)
