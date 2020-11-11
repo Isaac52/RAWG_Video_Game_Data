@@ -53,10 +53,10 @@ According to (Vilnius, Lithuania) RAWG (RAWG.io) is a comprehensive database and
   - [Making Environment Variables on Windows](https://www.youtube.com/watch?v=IolxqkL7cD8)
 
 ## References
-  - [Vilnius Lithuania's Quote](https://www.gamasutra.com/view/pressreleases/327935/RAWG_built_the_largest_video_game_database_and_you_can_edit_it.php#:~:text=October%204th%2C%202018%20%E2%80%94%20RAWG%20(,platform%20library%20in%20one%20place.&text=Today%2C%20RAWG%20is%20rolling%20out,members%20willing%20to%20pitch%20in.)
+  - [Vilnius Lithuania's Quote](https://www.gamasutra.com/view/pressreleases/327935/RAWG_built_the_largest_video_game_database_and_you_can_edit_it.php#:~:text=October%204th%2C%202018%20%E2%80%94%20RAWG%20,platform%20library%20in%20one%20place.&text=Today%2C%20RAWG%20is%20rolling%20out,members%20willing%20to%20pitch%20in)
 
   - [Python Library Installation: rawgpy](https://pypi.org/project/rawgpy/)
-  -
+
 
 ## Author info
   - [My Linkedin Page](https://www.linkedin.com/in/samuel-bacon-49285316a/)
