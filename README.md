@@ -54,6 +54,7 @@ According to (Vilnius, Lithuania) RAWG (RAWG.io) is a comprehensive database and
 
   - Here is a screen shot of the code to register your credentials from python!
   If you didn't make the environment variables you can skip that code and directly put your credentials into the functions.  
+  
   ![](credentials.png)
 
 
