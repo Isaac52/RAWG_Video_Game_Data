@@ -17,7 +17,7 @@ According to (Vilnius, Lithuania) RAWG (RAWG.io) is a comprehensive database and
 
 - Python: is a free open sours high-level and general-purpose programming language commonly used from machine learning. However, for this project I used it to make API calls to extract data.
 
-- Python Libraries: This is definitely not a comprehensive list of what a python library is. However, I've always thought of python libraries as a reusable chunk of code that automates a task for you. Most high level python libraries are built in languages like C++ or C. Python in away is built on top of them so it can communicate with the C++ or C. Below are some python libraries I used for the project so far.
+- Python Libraries: This is definitely not a comprehensive list of what a python library is. However, I've always thought of python libraries as a reusable chunk of code that automates a task for you. Most high level python libraries are built in languages like C++ or C. Python libraries in away are built on top of C++ or C and can communicate with them. Below are some python libraries I used for the project so far.
 
 - A.) libraries
   - 1.) rawgpy
