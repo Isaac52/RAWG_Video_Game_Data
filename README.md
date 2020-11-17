@@ -11,7 +11,7 @@
 
 
 ## Description
-According to (Vilnius, Lithuania) RAWG (RAWG.io) is a comprehensive database and a video game discovery service that lets players create and manage their multi-platform library in one place. RAWG reached its first milestone in product development field, by expanding its video game database over 245000 game titles and becoming the largest multi-platform video game database in the world. This is an open project I'm working on. At the moment I don't have an analysis plane for the dataset. The reason for the project was to learn how to collect my own data. I've always been handed nice CSV files for my analysis, so I wanted to try and challenge myself by putting together a comprehensive dataset for analysis. Below is a list of technologies I used to get the data from RAWG's API.
+According to (Vilnius, Lithuania) RAWG (RAWG.io) is a comprehensive database and a video game discovery service that lets players create and manage their multi-platform library in one place. RAWG reached its first milestone in product development field, by expanding its video game database over 245,000 game titles and becoming the largest multi-platform video game database in the world. This is an open project I'm working on. At the moment I don't have an analysis plane for the dataset. The reason for the project was to learn how to collect my own data. I've always been handed nice CSV files for my analysis, so I wanted to try and challenge myself by putting together a dataset on my own. Below is a list of technologies I used to get the data from RAWG's API.
 
 ## Technologies
 
